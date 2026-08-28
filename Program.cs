@@ -39,9 +39,9 @@
 
             Produto produtoB = new Produto();
 
-            produtoB.Nome = "Caneta";
-            produtoB.Preco = 3.50;
-            produtoB.QtdEstoque = 50;
+            produtoB.Nome = "Caderno";
+            produtoB.Preco = 60.00;
+            produtoB.QtdEstoque = 28;
 
             Console.WriteLine("--Informações do Produto--");
             Console.WriteLine();
